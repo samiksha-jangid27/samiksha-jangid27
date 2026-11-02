@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Samiksha Jangid</title>
+  <desc id="desc">Full-stack development and applied machine learning. Dark blue banner with a geometric network illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D35"/>
+      <stop offset="1" stop-color="#102B3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68E3CF"/>
+      <stop offset="1" stop-color="#85B6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" rx="16" fill="url(#background)"/>
+  <path d="M1010 0V280M1106 0V280M1202 0V280M936 52H1280M936 140H1280M936 228H1280" stroke="#AFDAEB" stroke-opacity=".07"/>
+  <rect x="64" y="55" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="61" y="141" fill="#F1F6FE" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Samiksha Jangid</text>
+  <text x="64" y="193" fill="#B9CCDF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="25">Full-stack development · Applied machine learning</text>
+  <g stroke="#6FE1D0" stroke-opacity=".45" stroke-width="2">
+    <path d="M1010 140L1106 52L1202 140L1106 228L1010 140L1202 140M1106 52V228"/>
+  </g>
+  <circle cx="1106" cy="140" r="29" fill="#6FE1D0" fill-opacity=".08" stroke="#6FE1D0" stroke-opacity=".4"/>
+  <circle cx="1106" cy="140" r="7" fill="#6FE1D0"/>
+  <circle cx="1010" cy="140" r="6" fill="#8DBBFF"/>
+  <circle cx="1106" cy="52" r="6" fill="#8DBBFF"/>
+  <circle cx="1202" cy="140" r="6" fill="#8DBBFF"/>
+  <circle cx="1106" cy="228" r="6" fill="#8DBBFF"/>
+</svg>
